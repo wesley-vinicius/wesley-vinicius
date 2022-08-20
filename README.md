@@ -4,7 +4,7 @@ use wesley-vinicius;
 class SobreMim extends Desenvolvedor {
   nome     = 'Wesley Vinicius';
   area    = 'Developer PHP';
-  trabalho  = 'Bernoulli';
+  trabalho  = 'PicPay';
   local = 'Belo Horizonte - MG';
 }
 
