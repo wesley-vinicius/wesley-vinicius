@@ -3,7 +3,7 @@ use wesley-vinicius;
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Wesley Vinicius';
-  area    = 'Developer PHP';
+  area    = 'Developer BackEnd';
   trabalho  = 'PicPay';
   local = 'Belo Horizonte - MG';
 }
@@ -11,8 +11,8 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens  = ['PHP', 'JavaScript', 'Golang'];
   bibliotecas  = ['Sass', 'Bootstrap', 'Jquery'];
-  frameworks = ['Laravel', 'Symfony'];
-  ferramentas = ['Github', 'Insomnia']
+  frameworks = ['Laravel', 'Symfony', 'Hyperf'];
+  ferramentas = ['Github', 'Insomnia', 'kafka', 'kubernetes'];
 }
 ```
 
